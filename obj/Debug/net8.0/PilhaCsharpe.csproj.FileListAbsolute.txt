@@ -1,0 +1,15 @@
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\bin\Debug\net8.0\PilhaCsharpe.exe
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\bin\Debug\net8.0\PilhaCsharpe.deps.json
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\bin\Debug\net8.0\PilhaCsharpe.runtimeconfig.json
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\bin\Debug\net8.0\PilhaCsharpe.dll
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\bin\Debug\net8.0\PilhaCsharpe.pdb
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.AssemblyInfoInputs.cache
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.AssemblyInfo.cs
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.sourcelink.json
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.dll
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\refint\PilhaCsharpe.dll
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.pdb
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\PilhaCsharpe.genruntimeconfig.cache
+C:\Users\administrator\Documents\leandro\c#\PilhaCsharpe\obj\Debug\net8.0\ref\PilhaCsharpe.dll
