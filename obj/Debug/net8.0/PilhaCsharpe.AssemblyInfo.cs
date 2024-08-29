@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PilhaCsharpe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae28400e67472d960ed8d916da97496c7d0bb702")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+211f301a97da457ee457a0a2389e13879a55beba")]
 [assembly: System.Reflection.AssemblyProductAttribute("PilhaCsharpe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PilhaCsharpe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
