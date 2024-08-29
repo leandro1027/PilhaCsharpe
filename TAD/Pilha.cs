@@ -4,10 +4,9 @@ namespace PilhaCsharpe;
 
 public class Pilha<T> : IPilha<T> // Define uma classe genérica Pilha que implementa a interface IPilha<T>.
 {
-    // Cria uma lista genérica para armazenar os elementos da pilha.
-    // List<T> é uma lista dinâmica, onde T é o tipo de dados armazenados na pilha.
-    private List<T> elementos = new List<T>();
-
+    
+    private List<T> elementos = new List<T>(); // Cria uma lista genérica para armazenar os elementos da pilha.
+                                                
     // Método para empilhar (adicionar) um item no topo da pilha.
     public void Push(T item)
     {
